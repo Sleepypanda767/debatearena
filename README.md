@@ -2,6 +2,8 @@
 
 An adversarial, real-time multilingual voice debate platform powered by Sarvam AI.
 
+🌐 **Live Application**: [https://debatearena-dusky.vercel.app/](https://debatearena-dusky.vercel.app/)
+
 Engage in rapid-fire dialectical debate across 11 Indian languages against specialized AI personas, featuring voice-to-voice interaction, real-time speech analytics, and judicial verdict adjudication.
 
 ---
@@ -34,15 +36,19 @@ Engage in rapid-fire dialectical debate across 11 Indian languages against speci
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Demo & Local Setup
 
-### Prerequisites
+### 🌐 Live Deployment
+Experience The Arena live on Vercel:
+👉 **[https://debatearena-dusky.vercel.app/](https://debatearena-dusky.vercel.app/)**
 
+### 💻 Local Development
+
+#### Prerequisites
 - Node.js 18+ or 20+
 - A Sarvam AI API Key (available from [Sarvam AI Dashboard](https://dashboard.sarvam.ai/))
 
-### Installation
-
+#### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sleepypanda767/debatearena.git
@@ -59,7 +65,7 @@ Engage in rapid-fire dialectical debate across 11 Indian languages against speci
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [https://debatearena-dusky.vercel.app/](https://debatearena-dusky.vercel.app/) (or local dev at `http://localhost:3000`).
 5. Click **API Key** in the top navigation bar to configure your personal Sarvam API key.
 
 ---
